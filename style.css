@@ -61,7 +61,7 @@ span{
 .contact:hover{
    background-color: blue;
    box-shadow: 0 0 25px blue;
-   color: blue;
+   color: white;
 }
 .home{
    width: 100%;
